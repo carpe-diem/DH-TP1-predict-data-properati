@@ -1,4 +1,4 @@
-# TP integrador Nº 1 - Digital House
+# TP integrador Nº 2 - Digital House
 
 Desafío 1. Análisis exploratorio de un dataset de precios de propiedades.
 
